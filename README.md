@@ -12,6 +12,7 @@ It is a back-end application for an e-commerce platform. It uses a MySQL databea
 ## Usage
 
 ![alt text](assets/screenshot.png)
+
 [Google drive video link](https://drive.google.com/file/d/1aNm5cMPzqL2rE3LCrkUH3_02cOjwlMIg/view?usp=sharing)
 
 ## Credits
